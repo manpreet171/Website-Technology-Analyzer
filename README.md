@@ -100,5 +100,5 @@ project/
 
 Here's an example of what the analysis results might look like:
 
-<img width="148" alt="image" src="https://github.com/manpreet171/Website-Technology-Analyzer/assets/172519023/395e2cf4-305a-4d2b-aa72-90a62211f4ef">
+<img width="419" alt="image" src="https://github.com/manpreet171/Website-Technology-Analyzer/assets/172519023/80425425-0d96-4f3c-852b-dfef1ac3688e">
 
