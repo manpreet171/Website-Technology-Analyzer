@@ -28,7 +28,7 @@ project/
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/website-technology-analyzer.git
+    git clone https://github.com/manpreet171/website-technology-analyzer.git
     cd website-technology-analyzer
     ```
 
@@ -99,3 +99,6 @@ project/
 ## Example Output
 
 Here's an example of what the analysis results might look like:
+
+<img width="148" alt="image" src="https://github.com/manpreet171/Website-Technology-Analyzer/assets/172519023/395e2cf4-305a-4d2b-aa72-90a62211f4ef">
+
